@@ -26,6 +26,7 @@
 
 <!--この下に第2章の内容を書きます。-->
 ### エリア
+・[飛鳥奈良エリア](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/index)
 
 <!--この上に第2章の内容を書きます。-->
 
