@@ -60,5 +60,5 @@
 
 <a id="repre"></a>
 ## <a href="#repre">代表者挨拶</a>
-![代表者](/img/IMG_4533.jpg)
+![代表者](IMG_4533.jpg)
 こんにちわ
