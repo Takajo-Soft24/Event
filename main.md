@@ -1,7 +1,7 @@
 <a id="index"></a>
 ## <a href="#index">【公式】レキシーランド</a>
 * [TOP](#anchor10)
-* [エリア紹介](#anchor20)
+* [エリア紹介](#eria)
 * [イベント情報](#event)
 * [代表挨拶](#anchor40)
 
@@ -21,9 +21,10 @@
 
 
 
-
+<a id="eria"></a>
+## <a href="#eria">エリア紹介</a>
 <!--この下に第2章の内容を書きます。-->
-### エリア
+### これが日本の歴史
 ・[飛鳥奈良エリア](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/index)
 
 ・[安土桃山エリア](https://takajo-soft26.github.io/sengoku)
