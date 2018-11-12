@@ -26,11 +26,18 @@
 ## <a href="#eria">エリア紹介</a>
 <!--この下に第2章の内容を書きます。-->
 ### これが日本の歴史
+
+・[縄文,弥生,古墳エリア](https://takajo-soft29.github.io/jomon/)
+
 ・[飛鳥奈良エリア](https://takajo-soft16.github.io/NaraAsuka_Rekishi-land/index)
 
 ・[平安エリア](https://takajo-soft11.github.io/Heian-Period/)
 
+・[鎌倉エリア](https://takajo-soft13.github.io/Kamakura/)
+
 ・[安土桃山エリア](https://takajo-soft26.github.io/sengoku)
+
+・[江戸エリア](https://takajo-soft31.github.io/EDO/)
 
 
 <!--この上に第2章の内容を書きます。-->
